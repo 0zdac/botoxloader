@@ -17,3 +17,5 @@ build.bat
 ```
 
 output: `botox/build/botox.exe`
+
+![ss](https://github.com/0zdac/botoxloader/blob/main/src/botox_3CXL4RKqF1.png?raw=true)
