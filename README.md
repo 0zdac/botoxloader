@@ -1,21 +1,19 @@
 # botox loader
 
-Minimalist AMOLED CS:GO manual map loader built with ImGui and Direct3D 11.
+auto updating dll loader for [botox mvm cheat](https://github.com/gumballpanties-sudo/botox)
 
-## Features
+## shit
 
-- Pure AMOLED `#000000` borderless square interface (260x160)
-- Manual mapping engine with TLS initialization, CRT init, and WoW64 thread hijacking
-- Automatic game launch (`-allow_third_party_software`) and injection fallback
-- Dynamic SHA-256 validation and caching in `%APPDATA%\botox\bin`
+manual map inj
+auto adding `-allow_third_party_software`
 
-## Build
+## build
 
-Requirements: Visual Studio 2022 (MSVC C++20), Windows SDK.
+requirements vs studio 2022 and windows sdk
 
 ```cmd
 cd botox
 build.bat
 ```
 
-Output: `botox/build/botox.exe`
+output: `botox/build/botox.exe`
