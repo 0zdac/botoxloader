@@ -1,6 +1,6 @@
 # botox loader
 
-auto updating dll loader for [botox mvm cheat](https://github.com/gumballpanties-sudo/botox)
+unofficial auto updating dll loader for [botox mvm cheat](https://github.com/gumballpanties-sudo/botox)
 
 ## shit
 
